@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Mern stack"
+    },
+    {
+        "id": 2,
+        "name": "Full stack"
+    },
+    {
+        "id": 3,
+        "name": "Python data science"
+    },
+    {
+        "id": 4,
+        "name": "Echical hacking"
+    },
+    {
+        "id": 5,
+        "name": "Digital marketing"
+    },
+    {
+        "id": 6,
+        "name": "Graphics design"
+    }
+]
