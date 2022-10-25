@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Mern stack",
+        "img": "https://miro.medium.com/max/1400/0*FDpg2fBMqM-UWM8i.jpg",
+        "price": "200",
+        "duration": "6"
+    },
+    {
+        "id": 2,
+        "name": "Full stack",
+        "img": "https://www.elevano.com/wp-content/uploads/2019/03/full-stack-development-by-weblineindia.jpg",
+        "price": "150",
+        "duration": "8"
+    },
+    {
+        "id": 3,
+        "name": "Python data science",
+        "img": "https://cdn.mindmajix.com/courses/python-training.png",
+        "price": "220",
+        "duration": "4"
+    },
+    {
+        "id": 4,
+        "name": "Ethical hacking",
+        "img": "https://blog.webhopers.in/wp-content/uploads/2022/03/Ethical-Hacking-Course-in-Jaipur.jpg",
+        "price": "100",
+        "duration": "5"
+    },
+    {
+        "id": 5,
+        "name": "Digital marketing",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbruy6KFGPk0Y-7_SVpFnm8hFpO-Nxeg2Q_w&usqp=CAU",
+        "price": "120",
+        "duration": "4"
+    },
+    {
+        "id": 6,
+        "name": "Graphics design",
+        "img": "https://i0.wp.com/www.graphic-design-institute.com/wp-content/uploads/2019/04/gdi-promising-graphic-designing-courses.jpg?fit=1200%2C800&ssl=1",
+        "price": "100",
+        "duration": "3"
+    }
+]
